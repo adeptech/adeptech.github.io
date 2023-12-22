@@ -1,0 +1,1 @@
+document.addEventListener('DOMContentLoaded',function(){var a=document.querySelectorAll('.sidenav'),b=M.Sidenav.init(a,{})}),document.addEventListener('DOMContentLoaded',function(){var a=document.querySelectorAll('.parallax'),b=M.Parallax.init(a,{})})
